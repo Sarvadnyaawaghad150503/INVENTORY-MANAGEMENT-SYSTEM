@@ -16,3 +16,9 @@ The login page takes in the credentials entered by the user and verifies with th
 
 <h2>Products </h2>
 <img src ="https://res.cloudinary.com/dbszbhg8n/image/upload/v1672941886/products_coh4sq.png" alt="Products" width = "650" height ="400"></img>
+
+<h2>Purchase Invoice </h2>
+<img src ="https://res.cloudinary.com/dbszbhg8n/image/upload/v1672941841/purchase_invoice_bgjt7b.png" alt="Products" width = "650" height ="400"></img>
+
+<h2>Users </h2>
+<img src ="https://res.cloudinary.com/dbszbhg8n/image/upload/v1672941841/user_ieds46.png" alt="Products" width = "650" height ="400"></img>
