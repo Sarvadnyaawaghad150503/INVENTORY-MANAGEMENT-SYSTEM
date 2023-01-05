@@ -6,4 +6,4 @@ This is an Inventory Management System built in the form of a GUI desktop applic
 
 <h2> Login Page </h2>
 
-<img src ="https://res.cloudinary.com/dbszbhg8n/image/upload/v1672940834/Screenshot_2_zbkrg6.png" alt="login" width = "350" height ="200"></img>
+<img src ="https://res.cloudinary.com/dbszbhg8n/image/upload/v1672940834/Screenshot_2_zbkrg6.png" alt="login" width = "650" height ="400"></img>
