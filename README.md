@@ -5,5 +5,14 @@ This is an Inventory Management System built in the form of a GUI desktop applic
 <h1> Application Preview </h1>
 
 <h2> Login Page </h2>
-
+The login page takes in the credentials entered by the user and verifies with the database.
 <img src ="https://res.cloudinary.com/dbszbhg8n/image/upload/v1672940834/Screenshot_2_zbkrg6.png" alt="login" width = "650" height ="400"></img>
+
+<h2> Main Menu </h2>
+<img src ="https://res.cloudinary.com/dbszbhg8n/image/upload/v1672941349/Screenshot_20221103_230449_v074zp.png" alt="main menu" width = "650" height ="400"></img>
+
+<h2> Customers </h2>
+<img src ="https://res.cloudinary.com/dbszbhg8n/image/upload/v1672941423/Screenshot_20230105_232632_uzhb4o.png" alt="Customers" width = "650" height ="400"></img>
+
+<h2>Products </h2>
+<img src ="https://res.cloudinary.com/dbszbhg8n/image/upload/v1672941886/products_coh4sq.png" alt="Products" width = "650" height ="400"></img>
