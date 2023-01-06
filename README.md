@@ -22,3 +22,9 @@ The login page takes in the credentials entered by the user and verifies with th
 
 <h2>Users </h2>
 <img src ="https://res.cloudinary.com/dbszbhg8n/image/upload/v1672941841/user_ieds46.png" alt="Products" width = "650" height ="400"></img>
+
+<h2> Orders </h2>
+<img src ="https://res.cloudinary.com/dbszbhg8n/image/upload/v1672942308/Orders_o9inhd.png" alt="Orders" width = "650" height ="400"></img>
+
+<h3> Billing </h3>
+<img src ="https://res.cloudinary.com/dbszbhg8n/image/upload/v1672942308/billing_q7lx1u.png" alt="Billing" width = "650" height ="400"></img>
