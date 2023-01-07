@@ -35,3 +35,10 @@ The login page takes in the credentials entered by the user and verifies with th
 
 <h3> Billing </h3>
 <img src ="https://res.cloudinary.com/dbszbhg8n/image/upload/v1672942308/billing_q7lx1u.png" alt="Billing" width = "650" height ="400"></img>
+
+<h1> Technologies Used </h4>
+
+  - Apache NetBeans IDE (for the GUI designer)
+  - PHP
+  - JDK 16
+  - XAMP Server
