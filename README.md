@@ -1,5 +1,7 @@
 <h1> INVENTORY MANAGEMENT SYSTEM </h1>
 
+video link :- https://youtu.be/uDGi5KHOJcY
+
 This is an Inventory Management System built in the form of a GUI desktop application developed in Java using PHP as its database. The GUI was designed using Swing and the database connectivity was managed using JDBC API.
 
 This application can be used by any small to mid-sized stores to easily maintain and manage an inventory of all their-
